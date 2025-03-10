@@ -1,0 +1,48 @@
+Disciplina de Fundamentos de Sistemas de Informação
+    1) Atividade:
+        Entrega dia 14/03 às 18h
+        Forma de entrega:
+            email para alexz@ufn.edu.br
+            assunto: trabalho de fundamentos de Sistemas de Informação
+            conteúdo: link do repositório pessoal (github) da atividade
+
+        Produto de aprendizagem:
+            a) pesquisar sobre:
+                - Sistemas de Informação (o que é e para que servem)
+                - Categorias de Sistemas de Informação (exemplos)
+                - Integração de Sistemas
+            
+            b) a partir da pesquisa construir:
+                opção a) um mapa mental do que foi lido
+                opção b) incrementar o glossário
+
+a)
+
+- Sistemas de Informação (o que é e para que servem): 
+Definição: Componentes interligados que fazem a coleta, armazenamento, processamento e distribuição de dados para 
+auxiliar na tomada de decisões e controle dentro de empresas e organizações.
+
+- Categorias de Sistemas de Informação (exemplos):
+
+*Sistemas de Processamento de Transações (TPS): Sistema projetado para processamento e coleta de dados de transações comerciais
+Exemplo: Sistema de pagamento de contas, sistema de caixa
+
+*Sistemas de Apoio à Decisão (DSS): Sistema projetado para auxiliar na tomada de decisões dentro de uma empresa, oferecendo ferramentas interativas e acesso a analise de dados.
+Exemplo: Planilhas eletrônicas, sistema de analise de estatísticas
+
+*Sistemas de Informação Gerencial (MIS): Sistemas projetados para compilar dados de diversas fontes afim de facilitar na tomada de decisões, no controle e no planejamento.
+Exemplo: ERP (Sistema de planejamento de recursos empresarial), SCM (Sistema de gerenciamento de linha de produção)
+
+*Sistemas de Informação Executiva (EIS): Sistemas projetados para facilitar o acesso de informações estratégicas para administradores.
+
+- Integração de Sistemas:
+Definição: Trata-se da união de diferentes softwares e sistemas dentro de uma empresa através de um sistema de integração
+
+Uso: Pode ser efetuado através de formas como:
+
+    - Integração banco a banco: Onde um mesmo banco de dados é compartilhado entres diferentes sistemas através de um software que extrai dados
+
+    - Troca de dados eletrônicos: Transfere dados de um sistema a outro através de um software "tradutor" que traduz os dados a serem transferidos
+
+    - Integração por API: A API serve de ponte que conecta sistemas e transfere dados entre estes com agilidade e segurança
+
