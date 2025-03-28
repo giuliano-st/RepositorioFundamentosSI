@@ -1,0 +1,9 @@
+Pesquisa:
+
+Sistemas Pervasivos:
+- Integração de tecnologias no ambiente de forma discreta, sem que seja percebido. Estes coletam dados da rotina do usuário para melhor atende-lo.
+*Exemplo: Tomadas inteligentes, Lampadas Smart.
+
+Sistemas Ubíquos:
+- Integração de tecnologias no cotidiano, em busca de facilitar processos e tarefas utilizando dispositivos interconectados;
+*Exemplo: Assistentes Virtuais tais como Waze, controladores de sono.
