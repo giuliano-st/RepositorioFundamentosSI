@@ -65,11 +65,11 @@ APIs:
 - Interfaces que funcionam como pontes para permitir a comunicação entre diferentes sistemas e aplicações.
 *Exemplo: Google Maps
 
-CRM -> o CRM (Customer Relationship Management) é composto das estratégias, praticas e tecnologias que as empresas utilizam para efetuar o gerenciamento e analise de suas intereções com seus clientes. Sendo seu objetivo melhorar o relacionamento do cliente para com a empresa, buscando aumentar sua satisfação e subsequentemente gerar um aumento nas vendas.
+CRM -> (Customer Relationship Management) Sistema de software completo que gerencia o relacionamento com o cliente, é composto das estratégias, praticas e tecnologias que as empresas utilizam para efetuar o gerenciamento e analise de suas interações com seus clientes. Seu objetivo é melhorar o relacionamento do cliente para com a empresa, buscando aumentar sua satisfação e subsequentemente gerar o aumento nas vendas.
 
 **
 Qual o Sistema de Informação?
-Cenário
+Cenário 1:
 Medicos e dentistas -> consultorio -> agendamento
 -> atendimento (consulta)
     -> prontuario
@@ -77,8 +77,10 @@ Medicos e dentistas -> consultorio -> agendamento
 -> financeiro
 R: SaaS, o cliente é a clinica
 
+Cenário 2:
 Cliente SaaS -> clinicas (gestão de clinicas)
 -> Banco de dados
 -> Contrato
     -> obrigações, deveres
     -> financeiro
+R: IaaS ou SaaS
