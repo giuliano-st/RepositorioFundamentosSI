@@ -64,3 +64,21 @@ Frameworks:
 APIs:
 - Interfaces que funcionam como pontes para permitir a comunicação entre diferentes sistemas e aplicações.
 *Exemplo: Google Maps
+
+CRM -> o CRM (Customer Relationship Management) é composto das estratégias, praticas e tecnologias que as empresas utilizam para efetuar o gerenciamento e analise de suas intereções com seus clientes. Sendo seu objetivo melhorar o relacionamento do cliente para com a empresa, buscando aumentar sua satisfação e subsequentemente gerar um aumento nas vendas.
+
+**
+Qual o Sistema de Informação?
+Cenário
+Medicos e dentistas -> consultorio -> agendamento
+-> atendimento (consulta)
+    -> prontuario
+-> atendimento/retorno -> sem custos
+-> financeiro
+R: SaaS, o cliente é a clinica
+
+Cliente SaaS -> clinicas (gestão de clinicas)
+-> Banco de dados
+-> Contrato
+    -> obrigações, deveres
+    -> financeiro
