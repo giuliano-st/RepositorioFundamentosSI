@@ -65,6 +65,7 @@ APIs:
 - Interfaces que funcionam como pontes para permitir a comunicação entre diferentes sistemas e aplicações.
 *Exemplo: Google Maps
 
+# CRM
 CRM -> (Customer Relationship Management) Sistema de software completo que gerencia o relacionamento com o cliente, é composto das estratégias, praticas e tecnologias que as empresas utilizam para efetuar o gerenciamento e analise de suas interações com seus clientes. Seu objetivo é melhorar o relacionamento do cliente para com a empresa, buscando aumentar sua satisfação e subsequentemente gerar o aumento nas vendas.
 
 Conceitos:
@@ -93,6 +94,7 @@ Cliente SaaS -> clinicas (gestão de clinicas)
     -> financeiro
 R: IaaS ou SaaS
 **
+# Criptogrfia:
 Segurança Digital -> Conjunto de práticas e tecnologias que visam a proteção de dados, redes, sistemas e programas contra ataques virtuais.
 
 LGPD -> Define um conjunto de regras de como deve ser feito o tratamento de dados pessoais de indivíduos, protegendo seu direito á liberdade, privacidade e desenvolvimento pessoal sem perturbações. Dentro da LGPD deve ser mostrado de forma transparente como os dados de cada pessoa serão utilizados em um sistema, garantindo a segurança e o livre acesso aos mesmos.
