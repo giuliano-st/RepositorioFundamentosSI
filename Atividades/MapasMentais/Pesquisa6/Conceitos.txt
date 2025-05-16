@@ -1,0 +1,13 @@
+Conceitos:
+ 
+Segurança Digital -> Conjunto de práticas e tecnologias que visam a proteção de dados, redes, sistemas e programas contra ataques virtuais.
+
+LGPD -> Define um conjunto de regras de como deve ser feito o tratamento de dados pessoais de indivíduos, protegendo seu direito á liberdade, privacidade e desenvolvimento pessoal sem perturbações. Dentro da LGPD deve ser mostrado de forma transparente como os dados de cada pessoa serão utilizados em um sistema, garantindo a segurança e o livre acesso aos mesmos.
+
+Certificado Digital -> Identidade digital utilizada para garantir a autenticidade de um site, documento assinado digitalmente e transações eletrônicas.
+
+Criptografia -> Processo de codificação de dados e informações que visa através de algoritmos e ocultamento garantir a segurança dos mesmos.
+
+Síncrona -> Utiliza somente uma chave de criptografia e descriptografia
+
+Assíncrona -> Utiliza um par de chaves para criptografia e descriptografia uma pública e uma privada
