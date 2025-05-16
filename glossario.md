@@ -67,6 +67,14 @@ APIs:
 
 CRM -> (Customer Relationship Management) Sistema de software completo que gerencia o relacionamento com o cliente, é composto das estratégias, praticas e tecnologias que as empresas utilizam para efetuar o gerenciamento e analise de suas interações com seus clientes. Seu objetivo é melhorar o relacionamento do cliente para com a empresa, buscando aumentar sua satisfação e subsequentemente gerar o aumento nas vendas.
 
+Conceitos:
+Pipeline ->  Auxilio visual sobre as oportunidades existentes nas diferentes etapas do processo de venda.
+Ticket -> Solicitações de suporte, reportagem de problemas, dúvidas e incidentes de clientes. 
+Kanban -> Ferramenta de controle e otimização de fluxos de trabalho, utiliza cartões para demonstrar isso visualmente.
+Leads -> Clientes em potencial
+
+ERP -> Sistema gerencial que auxilia o acesso e integração de dados em uma empresa, com foco na gestão interna de recursos e processos dentro da empresa.
+
 **
 Qual o Sistema de Informação?
 Cenário 1:
@@ -84,3 +92,4 @@ Cliente SaaS -> clinicas (gestão de clinicas)
     -> obrigações, deveres
     -> financeiro
 R: IaaS ou SaaS
+**
