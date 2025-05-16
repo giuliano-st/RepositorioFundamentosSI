@@ -1,5 +1,7 @@
 Git -> Serviço de versionamento
 
+# Sistemas de Informação:
+
 #Sistemas de Informação (o que é e para que servem): 
 Definição: Componentes interligados que fazem a coleta, armazenamento, processamento e distribuição de dados para 
 auxiliar na tomada de decisões e controle dentro de empresas e organizações.
@@ -94,7 +96,7 @@ Cliente SaaS -> clinicas (gestão de clinicas)
     -> financeiro
 R: IaaS ou SaaS
 **
-# Criptogrfia:
+# Criptografia:
 Segurança Digital -> Conjunto de práticas e tecnologias que visam a proteção de dados, redes, sistemas e programas contra ataques virtuais.
 
 LGPD -> Define um conjunto de regras de como deve ser feito o tratamento de dados pessoais de indivíduos, protegendo seu direito á liberdade, privacidade e desenvolvimento pessoal sem perturbações. Dentro da LGPD deve ser mostrado de forma transparente como os dados de cada pessoa serão utilizados em um sistema, garantindo a segurança e o livre acesso aos mesmos.
