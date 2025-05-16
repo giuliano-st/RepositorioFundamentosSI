@@ -93,3 +93,24 @@ Cliente SaaS -> clinicas (gestão de clinicas)
     -> financeiro
 R: IaaS ou SaaS
 **
+Segurança Digital -> Conjunto de práticas e tecnologias que visam a proteção de dados, redes, sistemas e programas contra ataques virtuais.
+
+LGPD -> Define um conjunto de regras de como deve ser feito o tratamento de dados pessoais de indivíduos, protegendo seu direito á liberdade, privacidade e desenvolvimento pessoal sem perturbações. Dentro da LGPD deve ser mostrado de forma transparente como os dados de cada pessoa serão utilizados em um sistema, garantindo a segurança e o livre acesso aos mesmos.
+
+Certificado Digital -> Identidade digital utilizada para garantir a autenticidade de um site, documento assinado digitalmente e transações eletrônicas.
+
+Criptografia -> Processo de codificação de dados e informações que visa, através de algoritmos e ocultamento, garantir a segurança dos mesmos.
+Chaves Criptografas:
+
+*Síncrona -> Utiliza somente uma chave de criptografia e descriptografia, tanto o emissor quanto o receptor possuem a mesma chave.
+
+Exemplos de uso:
+DES (Data Encryption Standard) -> Algoritmo de criptografia de bloco de 64-bit que utiliza uma chave de 56-bits e um bloco de 8-bit para a paridade, utiliza de transposições, substituições e outras operações para ocultar os dados.
+IDEA (Internacional Data Encryption Algorithm) -> Algoritmos de criptografia de bloco de 64-bit que utiliza uma chave de 128-bits, consiste em oito "rounds" onde vai ocorrer a criptografia e descriptografia dos dados até gerar uma saida transformada.
+RC (Ron’s Code ou Rivest Cipher) -> É uma familia de algortimos de criptografia baseada em criptografia de bloco, são a base para muitos tipos de algoritmos de criptografia tal como WAP e AES.
+
+*Assíncrona -> Utiliza um par de chaves para criptografia e descriptografia uma pública e uma privada, o usuário que irá receber informações "cria" uma chave que será enviada para quem quiser efetuar a troca de informações (chave pública) e com ela será codificada a mensagem. Após isso é criada outra chave (chave privada) que vai efetuar a decodificação das informações enviadas.
+
+Exemplos de uso:
+RSA (Rivest, Chamir e Adleman) -> Evolução direta do RC, é o algoritmo base da criptografia moderna, se trata da forma mais basica do uso de chave assíncrona onde temos uma chave pública e outra privada utiliza-se dois números primos muito grandes para gerar um terceiro número que é a chave que criptografa, sendo necessario fazer a fatoração desse número para se chegar nos dois originarios algo que consome muito processamento de uma maquina.
+ElGamal -> Algoritmo de criptografia que utiliza um "logaritmo discreto" para efetuar sua criptografia/descriptografia
