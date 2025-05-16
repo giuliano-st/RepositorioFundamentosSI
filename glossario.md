@@ -26,7 +26,7 @@ Integração banco a banco: Onde um mesmo banco de dados é compartilhado entres
 Troca de dados eletrônicos: Transfere dados de um sistema a outro através de um software "tradutor" que traduz os dados a serem transferidos
 Integração por API: A API serve de ponte que conecta sistemas e transfere dados entre estes com agilidade e segurança
 
-# Modelos de Negocio:
+# Modelos de Negócio:
 Software as a Service - (SaaS):
 - É uma forma pela que pode-se disponibilizar aplicações e softwares em nuvem para usuários por meio da internet como um serviço.
 +Vantagem -> não é necessário instalar nenhum software extra/não há necessidade de instalar um programa localmente. Reduz custos relacionados a infraestrutura, pode ser utilizado em qualquer local com acesso a internet.
@@ -109,12 +109,16 @@ Chaves Criptografas:
 *Síncrona -> Utiliza somente uma chave de criptografia e descriptografia, tanto o emissor quanto o receptor possuem a mesma chave.
 
 Exemplos de uso:
+
 DES (Data Encryption Standard) -> Algoritmo de criptografia de bloco de 64-bit que utiliza uma chave de 56-bits e um bloco de 8-bit para a paridade, utiliza de transposições, substituições e outras operações para ocultar os dados.
+
 IDEA (Internacional Data Encryption Algorithm) -> Algoritmos de criptografia de bloco de 64-bit que utiliza uma chave de 128-bits, consiste em oito "rounds" onde vai ocorrer a criptografia e descriptografia dos dados até gerar uma saida transformada.
 RC (Ron’s Code ou Rivest Cipher) -> É uma familia de algortimos de criptografia baseada em criptografia de bloco, são a base para muitos tipos de algoritmos de criptografia tal como WAP e AES.
 
 *Assíncrona -> Utiliza um par de chaves para criptografia e descriptografia uma pública e uma privada, o usuário que irá receber informações "cria" uma chave que será enviada para quem quiser efetuar a troca de informações (chave pública) e com ela será codificada a mensagem. Após isso é criada outra chave (chave privada) que vai efetuar a decodificação das informações enviadas.
 
 Exemplos de uso:
+
 RSA (Rivest, Chamir e Adleman) -> Evolução direta do RC, é o algoritmo base da criptografia moderna, se trata da forma mais basica do uso de chave assíncrona onde temos uma chave pública e outra privada utiliza-se dois números primos muito grandes para gerar um terceiro número que é a chave que criptografa, sendo necessario fazer a fatoração desse número para se chegar nos dois originarios algo que consome muito processamento de uma maquina.
+
 ElGamal -> Algoritmo de criptografia que utiliza um "logaritmo discreto" para efetuar sua criptografia/descriptografia
