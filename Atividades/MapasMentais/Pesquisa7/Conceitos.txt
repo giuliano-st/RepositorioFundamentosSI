@@ -1,0 +1,16 @@
+Assinatura Digital
+    Conceito: Técnica de segurança que visa garantir a segurança, confiabilidade e integridade de documentos eletrônicos.
+    Uso: É utilizada para garantir o não repúdio de informações de um documento, utiliza-se de uma chave privada, utilizada para assinar, e uma chave pública, utilizada para verificar a assinatura.
+    Deve ser utilizada para assinar quaisquer documentos digitais dos quais se deseja garantir sua integridade e autenticidade. 
+    O emissor do documento gera um "hash" do documento que é criptografado utilizando sua chave privada para assim "assina-lo", enviando este hash ao destinatário. 
+    O destinatário utiliza a chave publica do remetente para confirmar que a assinatura é valida. 
+
+Certificação Digital
+    Conceito: Documento eletrônico que tem como função autenticar a identidade de usuários, sites, servidores e dispositivos através de suas chaves públicas e privadas
+    Uso: É utilizado para permitir que usuários e empresas possam trocar informações de maneira segura.
+    Deve ser utilizada para garantir que qualquer troca de informações, seja envio de mensagem a requisições e até preenchimento de formulários em sites seja feita de forma segura.
+    Utilizam-se duas chaves, a chave pública é utilizada para assinar o documento e a chave privada é usada para autenticá-lo.
+
+Diferenças:
+Certificado Digital: Documento digital que atua como uma identidade digital, serve para comprovar a autenticidade daquele que o assina.
+Assinatura Digital: Ação de aplicar essa assinatura em um documento, garantindo sua integridade e o não repudio de suas informações.
