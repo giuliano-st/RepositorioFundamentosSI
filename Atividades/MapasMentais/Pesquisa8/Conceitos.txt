@@ -1,0 +1,33 @@
+Sistemas Cooperativos
+
+Conceito: 
+Sistemas de informação projetados para facilitar a colaboração entre indivíduos na solução de problemas e troca de informações.
+Em geral, se tratam de softwares em nuvem com foco na otimização do trabalho em equipe. 
+Permitem vários funcionários trabalhar em conjunto, mesmo que estes não estejam no mesmo lugar ao mesmo tempo.
+
+Tipos:
+Software de Edição Colaborativa: Permite que vários usuários editem documentos ao mesmo tempo.
+Exemplo: Figma, Google Docs, Word 365.
+Plataformas de comunicação: Auxiliam na troca de informações entre usuários.
+Exemplo: Microsoft Vive Engage, Slack
+Sistemas de Gestão de Projetos: Auxiliam na otimização de processos e recursos em uma empresa.
+Exemplo: Trello, Asana
+
+
+Licenças de uso de software
+
+Conceito:
+Contrato legal que define quais ações, direitos e restrições são permitidas ou negadas para o usuário do software.
+São utilizadas para definir o que pode ser feito com o software após este ser adquirido, seu uso, distribuição e modificação.
+
+Tipos:
+Proprietária: Limita o uso do software a condições específicas (Número de computadores/usuários, tipo de utilização), geralmente utilizada em software pago.
+Freeware: Software distribuído gratuitamente, com ou sem restrições.
+Assinatura: Permite a utilização do software mediante ao pagamento de uma assinatura
+Open Source: Software livre que (através de seu licenciamento Open Source) permite a modificação e redistribuição
+
+Exemplos:
+*Copyright: Define os direitos do autor sobre o software, como vai ser efetuado o seu uso, modificação e distribuição. É a proteção legal do autor do software
+*Copyleft: Garante a "liberdade" do software, transformando este em software livre e garantindo que TODAS as versões modificadas e redistribuídas desse software devam ser livres
+*GPL (General Public License): Licença de software livre que define que este deve garantir 4 liberdades: utilização para qualquer propósito, estudo do código-fonte (que deve ter seu acesso disponível), livre redistribuição, livre modificação. 
+*MIT: Licença de software permissiva, permite a redistribuição e modificação desde que os direitos autorais e a licença sejam mantidos intactos.
